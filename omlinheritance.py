@@ -14,6 +14,7 @@ class child_child(child):
 c=child_child()
 d=child()
 print(c.money)
+print("second commit")
 c.parent()
 c.child()
 c.child_child()
